@@ -47,6 +47,12 @@ University of Haripur — CGPA: 3.47 / 4.00
 - Email: malikahzaz301@gmail.com
 - Phone: +92 340 9086301
 
+🗣️ **Languages:**  
+- Native English Speaker  
+- Urdu Speaker  
+
+🎂 **Birthday:** 22/07/1999
+
 🚀 **Projects:**
 
 1. **3NS Domains** – https://3ns.domains  
