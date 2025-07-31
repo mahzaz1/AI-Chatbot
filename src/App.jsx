@@ -1,4 +1,4 @@
-// Commitng for git activity
+// Commiting for git activity
 import { useEffect, useRef, useState } from "react";
 import ChatbotIcon from "./components/ChatbotIcon";
 import ChatForm from "./components/ChatForm";
